@@ -33,18 +33,23 @@ Instrucciones:
 Puedes considerar aspectos como: 
 """
 
-
+#
 •	Los vinos más vendidos. 
+#
 •	Los meses con las ventas más altas y bajas. 
-•	La relación entre el precio de los vinos y las ventas. 
+#
+•	La relación entre el precio de los vinos y las ventas.
+#
 •	Los canales de distribución más efectivos. 
+#
 
 """ 
 Crea una historia convincente basada en los datos que hayas encontrado. Debes presentar estos hallazgos a la alta dirección de la empresa y en concreto al director general y propietario, un señor que lleva más de 60 años en el sector, no confía mucho 
 Big Data & Business Analytics 
 """
 
-	 	Actividad 2. Caso Bodegas Martínez 
+
+	Actividad 2. Caso Bodegas Martínez 
 en la gestión de los datos y conoce muy bien el mundo vinícola nacional e internacional. Tu historia debe ser clara y concisa, destacando los aspectos más importantes del análisis. 
 Proporciona un plan de acción con al menos tres recomendaciones basadas en tus hallazgos. Estas recomendaciones deben ser específicas y orientadas a mejorar las ventas y la estrategia de marketing de "Bodegas Martínez" en los próximos 6 meses. 
 ¡Buena suerte! Tu análisis y recomendaciones serán fundamentales para el futuro de 
@@ -54,10 +59,15 @@ Proporciona un plan de acción con al menos tres recomendaciones basadas en tus 
 """"
 Pautas para la elaboración y presentación de la Actividad 
 """"
+#
 •	Envía un informe en formato PDF que incluya la historia y el plan de acción, así como el archivo de Excel limpio y cualquier otro archivo o gráfico relevante que respalde tus hallazgos. 
+#
 •	La redacción y argumentación deberá ser clara, correcta (ortografía y sintaxis) y concisa. En la medida de lo posible, razonad y fundamentad cada propuesta. 
+#
 •	El texto de la Actividad no puede superar en ningún caso las 10 páginas de extensión, junto con los gráficos, escritas con letra Georgia, cuerpo 11 e interlineado sencillo. En el trabajo entregado no se reproducirá ni la presentación ni el enunciado; si se tercia, únicamente las preguntas. 
+#
 •	La Actividad se entregará como fichero de PDF a través de la aplicación de EAE. 
+#
 •	Al principio de la Actividad, en la parte superior de la hoja, ha de constar el nombre de sus autores. 
 
 """"
@@ -67,17 +77,29 @@ Criterios de evaluación
 """"
 En la evaluación se considerarán especialmente los siguientes aspectos: 
 """"
+#
 •	la capacidad de análisis y comprensión 
+#
 •	la capacidad de construir una historia con los datos 
+#
 •	la capacidad de síntesis y de hacer conclusiones concretas 
+#
 •	la accionabilidad de las acciones a realizar 
+#
 •	la originalidad, solidez, justificación y efectividad de las propuestas 
-•	que lo propuesto sea medible 
+#
+•	que lo propuesto sea medible
+#
 •	que las acciones y el análisis sean convincente 
+#
 •	que las acciones y el análisis no sean un oneshot y sea necesario hacerlo recurrentemente 
+#
 
 """
 Fechas clave 
 """
+#
 •	Inicio de la Actividad 2: sábado 23 de septiembre de 2023. 
+#
 •	Fecha límite para la entrega: domingo 8 de octubre de 2023. 
+#
