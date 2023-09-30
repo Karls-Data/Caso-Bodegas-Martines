@@ -1,7 +1,12 @@
-echo "# Caso-Bodegas-Martines" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Karls-Data/Caso-Bodegas-Martines.git
-git push -u origin main
+# Abriendo el archivo PDF y extrayendo el texto
+with open("/mnt/data/Actividad 2.BodegasMartinez.pdf", "rb") as file:
+    # Creando un objeto PDF reader
+    pdf_reader = PyPDF2.PdfFileReader(file)
+    
+    # Extrayendo el texto de cada página
+    text = ""
+    for page_num in range(pdf_reader.numPages):
+        page = pdf_reader.getPage(page_num)
+        text += page.extractText()
+
+text[:1000]  # Mostrando los primeros 1000 caracteres para tener una idea del contenido
