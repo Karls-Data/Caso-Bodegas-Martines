@@ -39,9 +39,12 @@ Puedes considerar aspectos como:
 #
 •	Los canales de distribución más efectivos. 
 #
-
+#
+#
 Crea una historia convincente basada en los datos que hayas encontrado. Debes presentar estos hallazgos a la alta dirección de la empresa y en concreto al director general y propietario, un señor que lleva más de 60 años en el sector, no confía mucho 
 Big Data & Business Analytics 
+#
+#
 #
 
 Actividad 2. Caso Bodegas Martínez 
@@ -51,7 +54,9 @@ Proporciona un plan de acción con al menos tres recomendaciones basadas en tus 
 "Bodegas Martínez" y para el futuro de su director comercial… 
 #
 
+
 Pautas para la elaboración y presentación de la Actividad 
+
 #
 •	Envía un informe en formato PDF que incluya la historia y el plan de acción, así como el archivo de Excel limpio y cualquier otro archivo o gráfico relevante que respalde tus hallazgos. 
 #
@@ -62,9 +67,12 @@ Pautas para la elaboración y presentación de la Actividad
 •	La Actividad se entregará como fichero de PDF a través de la aplicación de EAE. 
 #
 •	Al principio de la Actividad, en la parte superior de la hoja, ha de constar el nombre de sus autores. 
+#
 
 #
 Criterios de evaluación 
+#
+
 #
 En la evaluación se considerarán especialmente los siguientes aspectos: 
 #
@@ -84,7 +92,7 @@ En la evaluación se considerarán especialmente los siguientes aspectos:
 #
 •	que las acciones y el análisis no sean un oneshot y sea necesario hacerlo recurrentemente 
 #
-
+#
 Fechas clave 
 #
 •	Inicio de la Actividad 2: sábado 23 de septiembre de 2023. 
