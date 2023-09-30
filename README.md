@@ -14,11 +14,10 @@ Esta segunda Actividad del programa Big Data & Business Analytics consiste en de
 Enunciado 
 El supuesto de partida es que una prestigiosa empresa vinícola os quiere contratar como equipo de analistas de datos. La compañía se encuentra en una situación que no es capaz de recoger ni analizar los datos de una manera correcta y el director general no está seguro de que estos datos puedan ayudarles a vender más. El director comercial, convencido de que el uso de los datos es un elemento clave en su estrategia de transformación digital, ha proporcionado un archivo de Excel con datos de ventas de vinos durante el primer semestre del año. Vuestra tarea es analizar estos datos, limpiarlos si es necesario y presentar una historia atractiva que resuma las tendencias clave. Además, debes proponer un plan de acción basado en tus hallazgos. 
 
-""""
-Instrucciones: 
-"""
-
 #
+Instrucciones: 
+#
+
 •	Descarga 	los 	archivos 	de 	Excel 	proporcionados 	llamados 
 "Actividad2.BodegasMartinez.xlsx". Hay 3 ficheros distintos. 
 #
@@ -29,10 +28,8 @@ Instrucciones:
 •	Analiza los datos para identificar tendencias y patrones en las ventas de vinos.  
 #
 
-"""
+#
 Puedes considerar aspectos como: 
-"""
-
 #
 •	Los vinos más vendidos. 
 #
@@ -43,22 +40,18 @@ Puedes considerar aspectos como:
 •	Los canales de distribución más efectivos. 
 #
 
-""" 
 Crea una historia convincente basada en los datos que hayas encontrado. Debes presentar estos hallazgos a la alta dirección de la empresa y en concreto al director general y propietario, un señor que lleva más de 60 años en el sector, no confía mucho 
 Big Data & Business Analytics 
-"""
+#
 
-
-	Actividad 2. Caso Bodegas Martínez 
+Actividad 2. Caso Bodegas Martínez 
 en la gestión de los datos y conoce muy bien el mundo vinícola nacional e internacional. Tu historia debe ser clara y concisa, destacando los aspectos más importantes del análisis. 
 Proporciona un plan de acción con al menos tres recomendaciones basadas en tus hallazgos. Estas recomendaciones deben ser específicas y orientadas a mejorar las ventas y la estrategia de marketing de "Bodegas Martínez" en los próximos 6 meses. 
 ¡Buena suerte! Tu análisis y recomendaciones serán fundamentales para el futuro de 
 "Bodegas Martínez" y para el futuro de su director comercial… 
-""""
+#
 
-""""
 Pautas para la elaboración y presentación de la Actividad 
-""""
 #
 •	Envía un informe en formato PDF que incluya la historia y el plan de acción, así como el archivo de Excel limpio y cualquier otro archivo o gráfico relevante que respalde tus hallazgos. 
 #
@@ -70,13 +63,10 @@ Pautas para la elaboración y presentación de la Actividad
 #
 •	Al principio de la Actividad, en la parte superior de la hoja, ha de constar el nombre de sus autores. 
 
-""""
+#
 Criterios de evaluación 
-""""
-
-""""
+#
 En la evaluación se considerarán especialmente los siguientes aspectos: 
-""""
 #
 •	la capacidad de análisis y comprensión 
 #
@@ -95,9 +85,7 @@ En la evaluación se considerarán especialmente los siguientes aspectos:
 •	que las acciones y el análisis no sean un oneshot y sea necesario hacerlo recurrentemente 
 #
 
-"""
 Fechas clave 
-"""
 #
 •	Inicio de la Actividad 2: sábado 23 de septiembre de 2023. 
 #
